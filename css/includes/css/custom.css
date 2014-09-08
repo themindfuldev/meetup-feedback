@@ -4,7 +4,17 @@ ul.feedback-list {
 ul.feedback-list > li.feedback-item {
   overflow-x: auto;
 }
-ul.feedback-list > li.feedback-item > img.photo {
+section.feedback-detail header {
+  overflow-x: auto;
+  margin: 20px;
+}
+section.feedback-detail li.question {
+  margin-bottom: 10px;
+}
+section.feedback-detail li.question div.question-title {
+  font-weight: bold;
+}
+img.photo {
   float: left;
   margin-right: 10px;
   border: 1px solid #ddd;
