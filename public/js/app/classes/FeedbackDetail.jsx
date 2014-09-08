@@ -7,25 +7,26 @@ define([ 'jquery', 'backbone', 'react', 'react.backbone' ],
     var FeedbackItem = React.createBackboneClass({
       render: function () {
         var photoURL = this.getModel().get('photo') || defaultPhoto,
+            date = new Date( this.getModel().get('time') ).toLocaleString(),
             questionsItems = this.getModel().get('questions').map(function(question) {
             return (
-              <li>
-                <h3>{ question.title }</h3>
+              <li className="question">
+                <div className="question-title">{ question.title }</div>
                 { question.answer }
               </li>
             );
         });
 
         return (
-          <section>
+          <section className="feedback-detail">
             <header>
-              <img src="{ photoURL }" className="photo"/>
-              <div className="title">{ this.getModel().get('name') }'s feedback at { this.getModel('time')}</div>
+              <img src={ photoURL } className="photo"/>
+              <h2>{ this.getModel().get('name') }'s feedback at { date }</h2>
             </header>
             <ol>
               { questionsItems }
             </ol>
-            <a href="/">Back to feedbacks</a>
+            <a href="#">Back to feedbacks</a>
           </section>
         );
       }

@@ -3,6 +3,10 @@ define([ 'jquery', 'backbone', 'react', 'models/FeedbackModel', 'collections/Fee
   function($, Backbone, React, FeedbackModel, FeedbackCollection, FeedbackList, FeedbackDetail, FeedbackForm) {
 
     var Router = Backbone.Router.extend({
+      initialize: function() {
+        Backbone.history.start();
+      },
+
       routes: {
         '': 'feedbackList',
         'feedback/:id': 'feedbackDetail'

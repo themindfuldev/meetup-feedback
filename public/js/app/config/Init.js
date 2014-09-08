@@ -46,7 +46,6 @@ require.config({
 // Includes Desktop Specific JavaScript files here (or inside of your Desktop router)
 require([ 'jquery', 'backbone', 'routers/Router', 'bootstrap', 'backbone.validateAll' ],
   function($, Backbone, Router) {
-    Backbone.history.start({pushState: true});
     new Router();
   }
 );
