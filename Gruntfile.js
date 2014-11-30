@@ -1,31 +1,6 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
-    nodemon: {
-      dev: {
-        script: 'server/server.js',
-        options: {
-          ignoredFiles: [ 'README.md', 'node_modules/**' ],
-          delayTime: 300,
-          watch: [ 'server' ],
-          callback: function(nodemon) {
-            nodemon.on('log', function(event) {
-              console.log(event.colour);
-            });
-            nodemon.once('start', function() {
-              setTimeout(function() {
-                require('open')('http://localhost:8000');
-              }, 1500);
-            });
-          }
-        }
-      },
-      exec: {
-        options: {
-          exec: 'less'
-        }
-      }
-    },
     requirejs: {
       mainJS: {
         options: {
@@ -62,7 +37,7 @@ module.exports = function(grunt) {
         }
       }
     },
-    mochaTest: {
+    jasmine: {
       test: {
         options: {
           reporter: 'spec'
@@ -100,20 +75,29 @@ module.exports = function(grunt) {
         ext: '.js'
       }
     },
+    connect: {
+      server: {
+        options: {
+          port: 9001,
+          base: 'public',
+          open: true,
+          keepalive: true
+        }
+      }
+    }
   });
 
-  grunt.loadNpmTasks('grunt-nodemon');
+  grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-requirejs');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-contrib-less');
-  grunt.loadNpmTasks('grunt-mocha-test');
+  grunt.loadNpmTasks('grunt-contrib-jasmine');
   grunt.loadNpmTasks('grunt-react');
 
-  grunt.registerTask('test', ['jshint', 'mochaTest']);
+  grunt.registerTask('test', ['jshint']);
   grunt.registerTask('init', ['shell:copyBootstrapCSS', 'shell:copyFontAwesomeCSS', 'shell:copyFontAwesomeFonts', 'less:production', 'react', 'requirejs:mainJS', 'requirejs:mainCSS']);
   grunt.registerTask('build', ['less:production', 'react', 'requirejs:mainJS', 'requirejs:mainCSS']);
-  grunt.registerTask('server', ['nodemon:dev']);
-  grunt.registerTask('default', ['init', 'test', 'build']);
+  grunt.registerTask('default', ['init', 'test', 'build', 'connect']);
 
 };

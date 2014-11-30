@@ -1,0 +1,1731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Feedback",
+				"feedbackCollection"
+			],
+			[
+				"zoom",
+				"zoomViewer"
+			],
+			[
+				"zoo",
+				"zoomViewer"
+			],
+			[
+				"Alter",
+				"AlternateImages"
+			],
+			[
+				"assets",
+				"assetsHost"
+			],
+			[
+				"defaultAltIm",
+				"defaultAltImageIdx"
+			],
+			[
+				"imageList",
+				"imageListSource"
+			],
+			[
+				"last",
+				"lastVideo"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"pub",
+				"pubSubEventsHandler"
+			],
+			[
+				"imageCl",
+				"imageClickHandler"
+			],
+			[
+				"imageMo",
+				"imageMouseOutHandler"
+			],
+			[
+				"image",
+				"imageList"
+			],
+			[
+				"curren",
+				"currentTarget"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ima",
+				"imageList"
+			],
+			[
+				"Al",
+				"AlternateImages"
+			],
+			[
+				"alt",
+				"altViewEvents"
+			],
+			[
+				"cur",
+				"currentImage"
+			],
+			[
+				"select",
+				"selectAltImage"
+			],
+			[
+				"not",
+				"not-flexbox-browse-grid"
+			],
+			[
+				"cor",
+				"correspondingColorSwatches"
+			],
+			[
+				"selectedColor",
+				"selectedColorSwatch"
+			],
+			[
+				"prod",
+				"productThumbnail"
+			],
+			[
+				"cal",
+				"callbacksCount"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"sub",
+				"subscriber"
+			],
+			[
+				"togg",
+				"toggleBadges"
+			],
+			[
+				"colo",
+				"colorSwatchesView"
+			],
+			[
+				"color",
+				"ColorSwatchesView"
+			],
+			[
+				"in",
+				"internalView"
+			],
+			[
+				"client",
+				"clientWidth"
+			],
+			[
+				"current",
+				"currentOverlayView"
+			],
+			[
+				"ac",
+				"activateTemporarily"
+			],
+			[
+				"curr",
+				"currentColorSwatchesViews"
+			],
+			[
+				"c",
+				"ColorSwatchesView"
+			],
+			[
+				"col",
+				"colorSwatches"
+			],
+			[
+				"Col",
+				"ColorSwatchesView"
+			],
+			[
+				"Co",
+				"ColorSwatches"
+			],
+			[
+				"load",
+				"loadColorSwatches"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/js/app/classes/FeedbackList.jsx",
+			"settings":
+			{
+				"buffer_size": 615,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app/classes/FeedbackItem.jsx",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app/classes/FeedbackItem.js",
+			"settings":
+			{
+				"buffer_size": 979,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app/routers/Router.js",
+			"settings":
+			{
+				"buffer_size": 2340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app/classes/FeedbackDetail.jsx",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/includes/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app/classes/FeedbackForm.js",
+			"settings":
+			{
+				"buffer_size": 1756,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"syntax han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git a",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"GIT DIF",
+				"Git: Diff Current File"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"it add",
+				"Git: Add..."
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"file histore",
+				"File History: All Projects: Open recently closed file"
+			],
+			[
+				"file his",
+				"File History: All Projects: Open recently closed file"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git df",
+				"Git: Diff Staged Files"
+			],
+			[
+				"set s",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git du",
+				"Git: Diff Current File"
+			],
+			[
+				"GIT ",
+				"Git: Blame"
+			],
+			[
+				"git lg",
+				"Git: Log Current File"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tgarcia/Development/Personal/meetup-feedback",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/server",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/server/api",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/server/config"
+	],
+	"file_history":
+	[
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/css/includes/less/custom.less",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/config/Init.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackList.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/css/app.css",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/server/config/config.js.example",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/.gitignore",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackList.jsx",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackItem.jsx",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/css/includes/less/main.less",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/routers/Router.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackItem.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/server/test/spec.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/models/FeedbackModel.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/collections/FeedbackCollection.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/index.html",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackForm.jsx",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/package.json",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackDetail.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/classes/FeedbackDetail.jsx",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/Gruntfile.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/models/UserModel.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/collections/UsersCollection.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/views/FeedbackView.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/public/js/app/views/MainView.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/bower.json",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/app/scripts/main.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/server/config/config.js",
+		"/Users/tgarcia/Development/Personal/meetup-feedback/.yo-rc.json",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/templates/common/features/zoomer/AlternateZoomerImages.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysTemplates/src/common/features/zoomer/AlternateZoomerImages.hbs",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/components/AlternateImages.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/grunt-template-jasmine-istanbul/doc/assets/js/api-list.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/assembly.xml",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/WEB-INF/tiles-search-defs.xml",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/tiles-search-defs.xml",
+		"/Users/tgarcia/Development/Macys/MacysCommonUI/target/MacysCommonUI-2.35.16/WEB-INF/web20/tiles-defs.xml",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/grunt-contrib-watch/node_modules/.bin/tiny-lr",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/bcom/components/custom/TileInput.js",
+		"/Users/tgarcia/Development/Macys/NavApp/test.txt",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/test/jasmine/specs/mcom/components/quickView/zoomer_spec.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/test/jasmine/specs/mcom/components/quickView/QVAdapter_spec.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/test/jasmine/runners/qvproductmodel_runner.html",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/test/javascript/quickview/quickView_spec.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/components/colorSwatches/views/ColorSwatches.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysTemplates/src/mcom/component/colorSwatches/colorSwatches.hbs",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/Users/tgarcia/Development/Macys/NavApp/Common/Catalog/Catalog.iml",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/util/Segmentation.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/mcom/components/analytics/Coremetrics.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpController.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/mcom/features/zoomer/PDPOverlayZoomer.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/responsive/member/responsive_script.jsp",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/build/mcom/components/flexTemplate/responsive-browse.css",
+		"/Users/tgarcia/Development/Macys/MacysCommonUI/src/main/webapp/web20/global/responsiveGlobalLayout.jsp",
+		"/Users/tgarcia/Development/Macys/MacysCommonUI/target/MacysCommonUI-2.35.16/web20/chat/reactive_script.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/Common/CatalogMock/src/test/java/com/macys/navapp20/rest/RestEndpoints.java",
+		"/Users/tgarcia/Development/Macys/MacysUI/README.md",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomer.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/node_modules/madge/node_modules/should/.idea/inspectionProfiles/Project_Default.xml",
+		"/Users/tgarcia/Development/Macys/MacysUI/pom.xml",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/mcom/components/Overlay.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/mcom/features/ordermanagement/OrderDetailsTracking.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/node_modules/grunt-contrib-connect/node_modules/connect/lib/middleware/methodOverride.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/xml2js/node_modules/sax/test/attribute-name.js",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/web20/bag/analytics.jsp",
+		"/Users/tgarcia/Development/Macys/MacysCommonUI/target/MacysCommonUI-2.35.16/web20/global/xslt/analytics.xsl",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/util/AnalyticsBase.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/target/classes/js/mcom/features/loyalty/OverlayManager.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/grunt-contrib-uglify/test/fixtures/expected/compress_mangle.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/build/mcom/components/colorSwatches/colorSwatches-main.css",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/jetty_keystore/mcomKeysdb.jks",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/util/MapCache.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/node_modules/.bin/madge",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.39.0-SNAPSHOT/web20/global/tiles/responsive_base_css.jsp",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomViewer.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/macys/catalog/pdp/pdpCoremetricsController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.39.0-SNAPSHOT/js/mcom/features/zoomer/PDPOverlayZoomer.js",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/web20/assets/script/bloomies/catalog/productDetail/pdpCoremetricsController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppAssets.tar/target/navapp.war/web20/assets/script/bloomies/catalog/productDetail/pdpCoremetricsController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/global/tiles/responsive_base_css.jsp",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/hbsHelpers/Helpers.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/mcom/components/Overlay.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/mcom/features/zoomer/PDPOverlayZoomer.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/bcom/hbsHelpers/Helpers.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/common/fonts/helvetica/helvetiva_ltstd_condensed.svg",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/build/mcom/features/header/header-ext.css",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/.bin/handlebars",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/templates/mcom/component/thumbCarousel/ocpVertical.hbs",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/vendor/script/iscroll/iscroll-ie8.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src/common/components/iShip.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/node_modules/node-minify/index.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/thumbnailGrid.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/browse/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/keywordsearch/searchresult/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/Common/NavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/faceted/facetController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/assets/script/macys/catalog/faceted/facetController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/ipop/ipopController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/macys/catalog/faceted/facetController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/Common/NavAppWeb/target/NavAppWeb-1.9.0-SNAPSHOT/web20/assets/script/macys/catalog/faceted/facetController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/web20/assets/script/bloomies/catalog/faceted/facetController.js",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppAssets.tar/target/navapp.war/web20/assets/script/bloomies/catalog/faceted/facetController.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/build/bcom/features/facet/facetDrawer.css",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/web20/catalog/browse/facetedWidget_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/MacysCommonUI/.svn/format",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/vendor/script/iscroll/iscroll-probe.js",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/WEB-INF/tiles-search-defs.xml",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/WEB-INF/tiles-search-defs.xml",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/tiles-catalog-defs.xml",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/WEB-INF/tiles-catalog-defs.xml",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/web20/catalog/keywordsearch/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/web20/catalog/browse/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/catalog/browse/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/web20/catalog/keywordsearch/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/target/BloomiesNavAppWeb-2.31.0-SNAPSHOT/web20/catalog/browse/thumbnail_ajax.jsp",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysJS/test/jasmine/specs/common/components/Thumbnail_spec.js",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/catalog/browse/thumbnail_hbs.jsp",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/common/components/AlternateImages.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/mcom/features/zoomer/pdpZoomer.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/target/classes/styles/mcom/features/zoomer/pdpZoomer.css",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/styles/mcom/features/zoomer/pdpZoomer.css",
+		"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/vendor/script/iscroll/iscroll-ie8.js",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/bcom/base/_grid-ie8.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/bcom/base/_overrides-ie8.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/bcom/features/account/wallet/wallet-ie8.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/bcom/features/wishlist/wishlist-ie8.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/bcom/base/standard-ie8.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src/bcom/base/main-ie8.scss",
+		"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/build/bcom/features/account/wallet/wallet-ie8.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/tgarcia/Development/Macys/MacysUI/macysTemplates/src/mcom/component/quickView",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysCSS",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp",
+			"/Users/tgarcia/Development/Macys/MacysUI",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysTemplates/src",
+			"/Users/tgarcia/Development/Macys/MacysUI",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb",
+			"/Users/tgarcia/Development/Macys/NavApp",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysTemplates/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys",
+			"/Users/tgarcia/Development/Macys/NavApp/Common",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/test/jasmine/specs",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/NavApp",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src,*.js",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb,*.jsp",
+			"/Users/tgarcia/Development/Macys/NavApp,*.js",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys",
+			"/Users/tgarcia/Development/Macys/NavApp/Common/NavAppWebConfig/src/main/webapp/WEB-INF/classes",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/NavApp/Common",
+			"/Users/tgarcia/Development/Macys/NavApp/Common/CatalogController",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp",
+			"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/WEB-INF",
+			"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/web20/catalog",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/Common/NavAppWebConfig/src/main/webapp/WEB-INF/classes",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.35.0-SNAPSHOT",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysTemplates/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysCSS/src",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/MacysUI/macysJS",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20",
+			"/Users/tgarcia/Development/Macys/NavApp",
+			"/Users/tgarcia/Development/Macys/NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstrap",
+			"less",
+			"render",
+			"left",
+			"previewImage",
+			"popupImageContainer",
+			"popupImageContainer3",
+			"zoomer",
+			"imgElements",
+			"zoomer",
+			"handlebars",
+			"zoomer",
+			"loadZoomer",
+			"cmCreatePageElementTag",
+			"quickview",
+			"CQuickViewViewer",
+			"CPopupViewer",
+			"qvzoomer",
+			"taaz",
+			"isTaaz",
+			"taaz",
+			"mcomAnalytics",
+			"thumbImgID",
+			"isTaaz",
+			"anal",
+			"core",
+			"anal",
+			"coremetrics",
+			"my",
+			"my:",
+			"overlayelement",
+			"overlay",
+			"$dialog",
+			"resize",
+			"i18n",
+			"dialogWidget",
+			"positionOnResize",
+			"rest_service",
+			"positionOnResize",
+			"close",
+			"overlay",
+			"iscroll",
+			"equalizeHeightPerRow",
+			"thumbnail",
+			"alt-zoomer-images",
+			"altImageGridID",
+			"sdp_host",
+			"useTransform",
+			"thumbnail.hbs",
+			"thumbnail",
+			"product.thumbnail",
+			"macys-base-tablet.css",
+			"showTabletExperience",
+			"macys-base-tablet.css",
+			"rest_",
+			"zoomViewer",
+			"generateColorSwatchUrls",
+			"generateColorSwatchesPixie",
+			"swatchColorList",
+			"productThumbnail",
+			"isSpoBrowseGridEnabled",
+			"domElement",
+			"domelement",
+			"hasVideo",
+			"bv",
+			"hostconfig",
+			"hasTransform",
+			"useTransform",
+			"sdp_",
+			"istablet",
+			"hasVideo",
+			"active",
+			"mouseMoveHandler",
+			"isTabletEnvironment",
+			"active",
+			"changeVideo",
+			"hostConfig",
+			"thumb",
+			"HostConfig",
+			"imageMouseEnterHandler",
+			"scrollerClickHandler",
+			"iscroll",
+			"IScroll",
+			"iscroll",
+			"iscoll",
+			"macys-base-ie",
+			"altImagesWidth",
+			"altImagesHeight",
+			"this.imageHeight",
+			"eyescroller",
+			"imageHeight",
+			"SDP_HOST=",
+			"eye",
+			"zoomer",
+			"Globals",
+			"assets",
+			"defaultAltImageIdx",
+			"listToAlternateImagesList",
+			"dialogWidget",
+			"hostconfig",
+			"MACYS.pdp.printLayout",
+			"reserveSpaceForAltViews",
+			"require",
+			"li",
+			"changeImageList",
+			"sdp_host=",
+			"sdp_hos",
+			"altImageGridContainerID",
+			"11.",
+			"overlay",
+			"z",
+			"bzoomer",
+			"defaultWidth",
+			"hc",
+			"hostconfig",
+			"hostConfig",
+			"height",
+			"width",
+			"drag",
+			"marginTop",
+			"processEvent",
+			"originalWidth",
+			"setimage",
+			"defaultAnimationDelay",
+			"zoomReset",
+			"this.image",
+			"zoomFactor",
+			"processEvent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"maxHeight",
+			"maxWidth",
+			"this",
+			"self",
+			"altImageList",
+			"this",
+			"videoPlayer",
+			"videoPlayes",
+			" }}",
+			"{{ ",
+			"this",
+			"Globals.getValue( 'props",
+			"Globals.getValue ('props",
+			"self",
+			"selectedColorSwatch",
+			"model",
+			"ProductThumbnail",
+			"productThumbnail",
+			"colorSwatchesObserver",
+			"$",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/js/app/classes/FeedbackList.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/js/app/classes/FeedbackItem.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/app/classes/FeedbackItem.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								342
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/app/routers/Router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 47.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/js/app/classes/FeedbackDetail.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								549,
+								528
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/css/includes/css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/js/app/classes/FeedbackForm.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"project": "meetup-feedback.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"alternate",
+				"MacysUI/macysJS/templates/common/features/zoomer/AlternateZoomerImages.hbs"
+			],
+			[
+				"qvproductview",
+				"MacysUI/macysJS/src/mcom/backbone/views/QVProductView.js"
+			],
+			[
+				"colorswatch",
+				"MacysUI/macysJS/src/mcom/components/colorSwatches/views/ColorSwatches.js"
+			],
+			[
+				"colorsizet",
+				"MacysUI/macysJS/src/mcom/backbone/views/ColorSizeTypeManager.js"
+			],
+			[
+				"s7quick",
+				"NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/scene7/S7QuickViewViewer.js"
+			],
+			[
+				"s7popup",
+				"NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/scene7/S7PopupViewer.js"
+			],
+			[
+				"pdpcon",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpController.js"
+			],
+			[
+				"coremetri",
+				"MacysUI/macysJS/src/mcom/components/analytics/Coremetrics.js"
+			],
+			[
+				"pdpo",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPOverlayZoomer.js"
+			],
+			[
+				"alternateima",
+				"MacysUI/macysJS/src/common/components/AlternateImages.js"
+			],
+			[
+				"pdpcontr",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpController.js"
+			],
+			[
+				"pdpcoremetricscontroller.js",
+				"NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/macys/catalog/pdp/pdpCoremetricsController.js"
+			],
+			[
+				"pdpzoomvi",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomViewer.js"
+			],
+			[
+				"altern",
+				"MacysUI/macysJS/src/common/components/AlternateImages.js"
+			],
+			[
+				"helper",
+				"MacysUI/macysJS/src/common/hbsHelpers/Helpers.js"
+			],
+			[
+				"overlay",
+				"MacysUI/macysJS/src/mcom/components/Overlay.js"
+			],
+			[
+				"pdpover",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPOverlayZoomer.js"
+			],
+			[
+				"pdpzoomer",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomer.js"
+			],
+			[
+				"alter",
+				"MacysUI/macysJS/src/common/components/AlternateImages.js"
+			],
+			[
+				"facetcontroller.js",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/assets/script/macys/catalog/faceted/facetController.js"
+			],
+			[
+				"ipopcon",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/ipop/ipopController.js"
+			],
+			[
+				"facetcontr",
+				"NavApp/Common/NavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/faceted/facetController.js"
+			],
+			[
+				"tiles-se",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/tiles-search-defs.xml"
+			],
+			[
+				"thumbnail_ajax",
+				"NavApp/BloomiesNavApp/BloomiesNavAppWeb/src/main/webapp/web20/catalog/keywordsearch/thumbnail_ajax.jsp"
+			],
+			[
+				"ie8",
+				"MacysUI/macysCSS/build/bcom/base/main-ie8.css"
+			],
+			[
+				"pdpzoomer.scs",
+				"MacysUI/macysCSS/src/mcom/features/zoomer/pdpZoomer.scss"
+			],
+			[
+				"pdpzoome",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomer.js"
+			],
+			[
+				"iscroll-ie8.js",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/vendor/script/iscroll/iscroll-ie8.js"
+			],
+			[
+				"alternateimage",
+				"MacysUI/macysJS/src/common/components/AlternateImages.js"
+			],
+			[
+				"tiles-cat",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/tiles-catalog-defs.xml"
+			],
+			[
+				"thumbnail.jsp",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/browse/thumbnail.jsp"
+			],
+			[
+				"thumbnailgrid.jsp",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/thumbnailGrid.jsp"
+			],
+			[
+				"thumbnailhbs",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/catalog/browse/thumbnail_hbs.jsp"
+			],
+			[
+				"tilescata",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/tiles-catalog-defs.xml"
+			],
+			[
+				"alterna",
+				"MacysUI/macysTemplates/src/common/features/zoomer/AlternateZoomerImages.hbs"
+			],
+			[
+				"pdpoverla",
+				"MacysUI/macysCSS/src/mcom/features/zoomer/pdpOverlayZoomer.scss"
+			],
+			[
+				"imagezoo",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/imageZoomer.jsp"
+			],
+			[
+				"pdpoverlay",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPOverlayZoomer.js"
+			],
+			[
+				"imagezoom",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/imageZoomer.jsp"
+			],
+			[
+				"tiles-cata",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/WEB-INF/tiles-catalog-defs.xml"
+			],
+			[
+				"hostcon",
+				"MacysUI/macysJS/src/mcom/base/HostConfig.js"
+			],
+			[
+				"mcombase",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/jasmine/src/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/mcom/base/McomBase.js"
+			],
+			[
+				"macys-base-ie.scss",
+				"MacysUI/macysCSS/src/mcom/base/macys-base-ie.scss"
+			],
+			[
+				"iscroll",
+				"MacysUI/macysJS/vendor/script/iscroll/iscroll-ie8.js"
+			],
+			[
+				"imagezoomer",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/imageZoomer.jsp"
+			],
+			[
+				"responsivebasecss",
+				"MacysCommonUI/target/MacysCommonUI-2.35.16/web20/global/tiles/responsive_base_css.jsp"
+			],
+			[
+				"headerapp",
+				"MacysUI/macysJS/src/mcom/features/header/HeaderApp.js"
+			],
+			[
+				"pdpcont",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpController.js"
+			],
+			[
+				"pdpzoomvie",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomViewer.js"
+			],
+			[
+				"pdpvideo",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPVideo.js"
+			],
+			[
+				"overlay.js",
+				"MacysUI/macysJS/src/mcom/components/Overlay.js"
+			],
+			[
+				"button",
+				"MacysUI/macysJS/src/common/components/ButtonZoomer.js"
+			],
+			[
+				"pdpcontroller.js",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpController.js"
+			],
+			[
+				"hostconfi",
+				"MacysUI/macysJS/src/mcom/base/HostConfig.js"
+			],
+			[
+				"imageutils",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/js/common/util/ImageUtils.js"
+			],
+			[
+				"imag",
+				"MacysUI/macysJS/src/common/util/ImageUtils.js"
+			],
+			[
+				"buttonzo",
+				"MacysUI/macysJS/src/common/components/ButtonZoomer.js"
+			],
+			[
+				"colorswatches.hbs",
+				"MacysUI/macysTemplates/src/mcom/component/colorSwatches/colorSwatches.hbs"
+			],
+			[
+				"buttonzoom",
+				"MacysUI/macysJS/src/common/components/ButtonZoomer.js"
+			],
+			[
+				"alternateimages",
+				"MacysUI/macysJS/templates/common/features/zoomer/AlternateZoomerImages.js"
+			],
+			[
+				"sideb",
+				"MacysUI/macysJS/src/common/components/SideBySideImageZoomer.js"
+			],
+			[
+				"imageut",
+				"MacysUI/macysJS/src/common/util/ImageUtils.js"
+			],
+			[
+				"imagezoomer.",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/imageZoomer.jsp"
+			],
+			[
+				"pdpvi",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPVideo.js"
+			],
+			[
+				"coremetricsatt",
+				"MacysUI/macysJS/src/common/util/CoremetricsAttributes.js"
+			],
+			[
+				"coremetrics",
+				"MacysUI/macysJS/src/mcom/components/analytics/Coremetrics.js"
+			],
+			[
+				"ipopcont",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/ipop/ipopController.js"
+			],
+			[
+				"overrides-ie",
+				"MacysUI/macysCSS/src/bcom/base/_overrides-ie8.scss"
+			],
+			[
+				"main-",
+				"MacysUI/macysCSS/src/bcom/base/main-ie8.scss"
+			],
+			[
+				"sideby",
+				"MacysUI/macysJS/src/common/components/SideBySideImageZoomer.js"
+			],
+			[
+				"sidebys",
+				"MacysUI/macysJS/src/common/components/SideBySideImageZoomer.js"
+			],
+			[
+				"alternateimages.js",
+				"MacysUI/macysJS/templates/common/features/zoomer/AlternateZoomerImages.js"
+			],
+			[
+				"navapp_set",
+				"MacysCommonUI/target/MacysCommonUI-2.35.16/web20/global/tiles/jsproperties/navapp_properties_settings.jsp"
+			],
+			[
+				"segmentat",
+				"MacysUI/macysJS/src/common/util/Segmentation.js"
+			],
+			[
+				"zoomer.hbs",
+				"MacysUI/macysTemplates/src/common/features/zoomer/Zoomer.hbs"
+			],
+			[
+				"hostconfig",
+				"MacysUI/macysJS/src/mcom/base/HostConfig.js"
+			],
+			[
+				"alternateimages.hbs",
+				"MacysUI/macysTemplates/src/common/features/zoomer/AlternateZoomerImages.hbs"
+			],
+			[
+				"s7pop",
+				"NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/scene7/S7PopupViewer.js"
+			],
+			[
+				"pdpzoomer.js",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomer.js"
+			],
+			[
+				"pdpoverl",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPOverlayZoomer.js"
+			],
+			[
+				"alt",
+				"MacysUI/macysJS/src/common/components/AlternateImages.js"
+			],
+			[
+				"pdp",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomer.js"
+			],
+			[
+				"zoomvie",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomViewer.js"
+			],
+			[
+				"s7fun",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/scene7/S7Functions.js"
+			],
+			[
+				"zoomer.js",
+				"MacysUI/macysJS/src/mcom/components/quickView/zoomer.js"
+			],
+			[
+				"zoomer",
+				"MacysUI/macysTemplates/target/classes/templates/common/util/ZoomRegionBox.hbs"
+			],
+			[
+				"zoomregion",
+				"MacysUI/macysJS/templates/common/util/ZoomRegionBox.hbs"
+			],
+			[
+				"pdpzoomer.scss",
+				"MacysUI/macysCSS/src/mcom/features/zoomer/pdpZoomer.scss"
+			],
+			[
+				"pdpcoreme",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/assets/script/macys/catalog/pdp/pdpCoremetricsController.js"
+			],
+			[
+				"pdpcontro",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpController.js"
+			],
+			[
+				"pdpcoremetrics",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/MacysNavAppWeb-2.37.0-SNAPSHOT/web20/assets/script/macys/catalog/pdp/pdpCoremetricsController.js"
+			],
+			[
+				"pdpcorem",
+				"NavApp/BloomiesNavApp/BloomiesNavAppAssets.tar/target/navapp.war/web20/assets/script/bloomies/catalog/productDetail/pdpCoremetricsController.js"
+			],
+			[
+				"zoomvi",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomViewer.js"
+			],
+			[
+				"colorswatche",
+				"MacysUI/macysJS/src/common/components/colorSwatches/views/ColorSwatches.js"
+			],
+			[
+				"productthumbnailutil",
+				"NavApp/Common/Catalog/src/main/java/com/macys/navapp20/product/thumbnail/util/ProductThumbnailUtil.java"
+			],
+			[
+				"category.jsp",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/json/category.jsp"
+			],
+			[
+				"imageutil",
+				"MacysUI/macysJS/src/common/util/ImageUtils.js"
+			],
+			[
+				"pdpzoo",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPZoomer.js"
+			],
+			[
+				"badi",
+				"MacysUI/macysJS/tools/codingStandards/plugins/BadIdentifiersConfig.json"
+			],
+			[
+				"imagezoomer.jsp",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/imageZoomer.jsp"
+			],
+			[
+				"pdpoverlayzoomer.js",
+				"MacysUI/macysJS/src/mcom/features/zoomer/PDPOverlayZoomer.js"
+			],
+			[
+				"coremetricscontroller",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/pdp/pdpCoremetricsController.js"
+			],
+			[
+				"coremetrics.js",
+				"MacysUI/macysJS/src/mcom/components/analytics/Coremetrics.js"
+			],
+			[
+				"productthumbnailloader",
+				"MacysUI/macysJS/src/common/components/productThumbnail/ProductThumbnailLoader.js"
+			],
+			[
+				"pdp_zoomer",
+				"MacysUI/macysCSS/src/bcom/features/zoomer/pdp_zoomer.scss"
+			],
+			[
+				"alternat",
+				"MacysUI/macysTemplates/src/common/features/zoomer/AlternateZoomerImages.hbs"
+			],
+			[
+				"facetedcon",
+				"NavApp/Common/NavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/faceted/facetController.js"
+			],
+			[
+				"ipop",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/ipop/ipopController.js"
+			],
+			[
+				"grunt",
+				"MacysUI/macysJS/Gruntfile.js"
+			],
+			[
+				"sidebysi",
+				"MacysUI/macysJS/src/common/components/SideBySideImageZoomer.js"
+			],
+			[
+				"ipopcontro",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/assets/script/macys/catalog/ipop/ipopController.js"
+			],
+			[
+				"navapp_pro",
+				"NavApp/MacysNavApp/MacysNavAppWeb/target/jasmine/src/target/commonui/web20/global/tiles/jsproperties/navapp_properties_settings.jsp"
+			],
+			[
+				"alternateimages.hb",
+				"MacysUI/macysJS/templates/common/features/zoomer/AlternateZoomerImages.hbs"
+			],
+			[
+				"global",
+				"MacysUI/macysJS/src/common/util/Globals.js"
+			],
+			[
+				"gruntfile",
+				"MacysUI/macysJS/Gruntfile.js"
+			],
+			[
+				"ajaxhan",
+				"MacysUI/macysJS/src/bcom/util/AjaxHandler.js"
+			],
+			[
+				"sidebi",
+				"MacysUI/macysJS/src/common/components/SideBySideImageZoomer.js"
+			],
+			[
+				"colorswatches.js",
+				"MacysUI/macysJS/src/mcom/components/colorSwatches/views/ColorSwatches.js"
+			],
+			[
+				"zoomregio",
+				"MacysUI/macysJS/templates/common/util/ZoomRegionBox.hbs"
+			],
+			[
+				"side",
+				"MacysUI/macysJS/src/common/components/SideBySideImageZoomer.js"
+			],
+			[
+				"s7func",
+				"NavApp/MacysNavApp/MacysNavAppAssets.tar/target/navapp.war/web20/assets/script/scene7/S7Functions.js"
+			],
+			[
+				"js_pro",
+				"MacysCommonUI/target/MacysCommonUI-2.35.16/web20/global/tiles/jsproperties/js_properties_settings.jsp"
+			],
+			[
+				"mcomproductthumbnailview",
+				"MacysUI/macysJS/src/mcom/components/productThumbnail/views/ProductThumbnail.js"
+			],
+			[
+				"productthumbnail",
+				"MacysUI/macysJS/src/common/components/productThumbnail/views/ProductThumbnail.js"
+			],
+			[
+				"pdpresponsivememberresponsive_script.jsp",
+				"NavApp/MacysNavApp/MacysNavAppWeb/src/main/webapp/web20/catalog/pdp/responsive/member/responsive_script.jsp"
+			],
+			[
+				"productthumbnail_spec",
+				"MacysUI/macysJS/test/jasmine/specs/common/components/productThumbnail/ProductThumbnail_spec.js"
+			],
+			[
+				"productthumbnail_",
+				"MacysUI/macysJS/test/jasmine/specs/mcom/components/productThumbnail/ProductThumbnail_spec.js"
+			],
+			[
+				"responsive_base_css",
+				"MacysCommonUI/src/main/webapp/web20/global/tiles/responsive_base_css.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 1269.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 409.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

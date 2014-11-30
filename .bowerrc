@@ -1,1 +1,6 @@
-{ "directory": "/public/js/libs" }
+{
+    "directory": "/public/js/libs",
+    "scripts": {
+        "postinstall": "rm -rf app/bower_components/underscore"
+    }
+}
