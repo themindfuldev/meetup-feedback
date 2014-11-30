@@ -47,10 +47,10 @@ module.exports = function(grunt) {
     },
     shell: {
       copyBootstrapCSS: {
-        command: 'cp ./public/js/libs/bootstrap/dist/css/bootstrap.css ./public/css/bootstrap.css'
+        command: 'cp ./public/js/libs/bootstrap/dist/css/bootstrap.min.css ./public/css/bootstrap.css'
       },
       copyFontAwesomeCSS: {
-        command: 'cp ./public/js/libs/font-awesome/css/font-awesome.css ./public/css/font-awesome.css'
+        command: 'cp ./public/js/libs/font-awesome/css/font-awesome.min.css ./public/css/font-awesome.css'
       },
       copyFontAwesomeFonts: {
         command: 'cp -r ./public/js/libs/font-awesome/fonts/* ./public/fonts'
