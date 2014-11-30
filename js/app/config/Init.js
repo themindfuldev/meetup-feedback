@@ -13,7 +13,6 @@ require.config({
     'backbone'              : 'libs/backbone/backbone',
     'react'                 : 'libs/react/react',
     'bootstrap'             : 'libs/bootstrap/dist/js/bootstrap',
-    'socketio'              : '../socket.io/socket.io',
     // Plugins
     // =======
     'backbone.validateAll'  : 'libs/plugins/Backbone.validateAll',
@@ -38,8 +37,7 @@ require.config({
       'exports': 'Backbone'
     },
     // Backbone.validateAll plugin that depends on Backbone
-    'backbone.validateAll': [ 'backbone' ],
-    'socketio': { 'exports': 'io' }
+    'backbone.validateAll': [ 'backbone' ]
   }
 });
 
