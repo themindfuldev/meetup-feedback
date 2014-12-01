@@ -1,4 +1,4 @@
-define([ 'backbone', 'react', 'collections/MeetupCollection' ],
+define([ 'backbone', 'react', 'meetup/MeetupCollection' ],
   function(Backbone, React, MeetupCollection) {
 
     var MeetupController = {

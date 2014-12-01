@@ -1,4 +1,4 @@
-define([ 'backbone', 'controllers/AuthController', 'controllers/MeetupController', 'controllers/FeedbackController' ],
+define([ 'backbone', 'auth/AuthController', 'meetup/MeetupController', 'feedback/FeedbackController' ],
   function(Backbone, authController, meetupController, feedbackController) {
 
     var Router = Backbone.Router.extend({

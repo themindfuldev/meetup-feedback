@@ -20,11 +20,10 @@ require.config({
     'text'                  : 'libs/text/text',
     // Application Folders
     // ===================
-    'collections'           : 'app/collections',
-    'models'                : 'app/models',
-    'routers'               : 'app/routers',
-    'controllers'           : 'app/controllers',
-    'classes'               : 'app/classes',
+    'auth'                  : 'app/auth',
+    'feedback'              : 'app/feedback',
+    'meetup'                : 'app/meetup',
+    'config'                : 'app/config'
   },
   // Sets the configuration for your third party scripts that are not AMD compatible
   shim: {
@@ -43,7 +42,7 @@ require.config({
 });
 
 // Includes Desktop Specific JavaScript files here (or inside of your Desktop router)
-require([ 'jquery', 'backbone', 'routers/Router', 'bootstrap', 'backbone.validateAll' ],
+require([ 'jquery', 'backbone', 'config/Router', 'bootstrap', 'backbone.validateAll' ],
   function($, Backbone, Router) {
     new Router();
     Backbone.history.start();

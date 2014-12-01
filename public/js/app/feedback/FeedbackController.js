@@ -1,4 +1,4 @@
-define([ 'jquery', 'backbone', 'react', 'models/FeedbackModel', 'collections/FeedbackCollection', 'classes/FeedbackList', 'classes/FeedbackDetail', 'classes/FeedbackForm' ],
+define([ 'jquery', 'backbone', 'react', 'feedback/FeedbackModel', 'feedback/FeedbackCollection', 'feedback/classes/FeedbackList', 'feedback/classes/FeedbackDetail', 'feedback/classes/FeedbackForm' ],
   function($, Backbone, React, FeedbackModel, FeedbackCollection, FeedbackList, FeedbackDetail, FeedbackForm) {
 
     var FeedbackController = {

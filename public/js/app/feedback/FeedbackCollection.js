@@ -1,5 +1,5 @@
 // FeedbackCollection.js
-define([ 'jquery', 'backbone', 'models/FeedbackModel' ],
+define([ 'jquery', 'backbone', 'feedback/FeedbackModel' ],
   function($, Backbone, FeedbackModel) {
 
     var FeedbackCollection = Backbone.Collection.extend({

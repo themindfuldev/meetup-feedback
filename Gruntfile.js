@@ -67,12 +67,23 @@ module.exports = function(grunt) {
       }
     },
     react: {
-      files: {
-        expand: true,
-        cwd: 'public/js/app/classes',
-        src: ['*.jsx'],
-        dest: 'public/js/app/classes',
-        ext: '.js'
+      dynamic_mappings: {
+        files: [
+          {
+            expand: true,
+            cwd: 'public/js/app/auth/classes',
+            src: ['*.jsx'],
+            dest: 'public/js/app/auth/classes',
+            ext: '.js'
+          },
+          {
+            expand: true,
+            cwd: 'public/js/app/feedback/classes',
+            src: ['*.jsx'],
+            dest: 'public/js/app/feedback/classes',
+            ext: '.js'
+          }
+        ]
       }
     },
     connect: {
