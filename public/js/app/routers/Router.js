@@ -1,66 +1,25 @@
-// Router.js
-define([ 'jquery', 'backbone', 'react', 'models/FeedbackModel', 'collections/FeedbackCollection', 'classes/FeedbackList', 'classes/FeedbackDetail', 'classes/FeedbackForm' ],
-  function($, Backbone, React, FeedbackModel, FeedbackCollection, FeedbackList, FeedbackDetail, FeedbackForm) {
+define([ 'backbone', 'controllers/AuthController', 'controllers/MeetupController', 'controllers/FeedbackController' ],
+  function(Backbone, authController, meetupController, feedbackController) {
 
     var Router = Backbone.Router.extend({
+
       initialize: function() {
-        Backbone.history.start();
+        this.on('route', this.checkAuthentication);
       },
 
       routes: {
-        '': 'feedbackList',
-        'feedback/:id': 'feedbackDetail'
+        '': meetupController.meetupList,
+        'feedbackList': feedbackController.feedbackList,
+        'feedback/:id': feedbackController.feedbackDetail,
+        'authenticate': authController.authenticate
       },
 
-      feedbackList: function() {
-        var feedbackCollection = new FeedbackCollection([ {
-            id: 1,
-            name: 'Aaron Williams',
-            photo: 'http://photos3.meetupstatic.com/photos/member/6/b/5/9/thumb_16227481.jpeg',
-            time: 1410144641288
-          }, {
-            id: 2,
-            name: 'Alan Ramsey',
-            time: 1410144341288
-          }, {
-            id: 3,
-            name: 'Arnold Sandoval',
-            photo: 'http://photos1.meetupstatic.com/photos/member/a/5/b/6/thumb_112902422.jpeg',
-            time: 1410124641588
-          }
-        ]);
-
-        var feedbackList = FeedbackList({collection: feedbackCollection});
-        React.renderComponent(feedbackList, document.getElementById('content'));
-      },
-
-      feedbackDetail: function(id) {
-        var feedbackModel = new FeedbackModel({
-            id: 1,
-            name: 'Aaron Williams',
-            photo: 'http://photos3.meetupstatic.com/photos/member/6/b/5/9/thumb_16227481.jpeg',
-            time: 1410144641288,
-            questions: [
-              {
-                title: 'Topic suggestions for next Backbone.js meetups?',
-                answer: 'What about React.js?'
-              },
-
-              {
-                title: 'Would you be interested on giving a talk/demo/sharing something with the Backbone.js community? If so, we will contact you on meetup.com/email.',
-                answer: 'Yes, I want to talk about React.js'
-              },
-              {
-                title: 'What can we do better next time?',
-                answer: 'More beer!'
-              }
-
-            ]
-          });
-
-        var feedbackList = FeedbackDetail({model: feedbackModel});
-        React.renderComponent(feedbackList, document.getElementById('content'));
+      checkAuthentication: function(router, route, params){
+        if (!authController.isAuthenticated()) {
+          this.navigate('authenticate');
+        }
       }
+
     });
 
     return Router;

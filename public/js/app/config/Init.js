@@ -23,7 +23,8 @@ require.config({
     'collections'           : 'app/collections',
     'models'                : 'app/models',
     'routers'               : 'app/routers',
-    'classes'               : 'app/classes'
+    'controllers'           : 'app/controllers',
+    'classes'               : 'app/classes',
   },
   // Sets the configuration for your third party scripts that are not AMD compatible
   shim: {
@@ -45,5 +46,6 @@ require.config({
 require([ 'jquery', 'backbone', 'routers/Router', 'bootstrap', 'backbone.validateAll' ],
   function($, Backbone, Router) {
     new Router();
+    Backbone.history.start();
   }
 );
